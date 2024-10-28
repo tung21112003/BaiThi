@@ -1,0 +1,13 @@
+{
+  "products": [],
+  "categories": [
+    {
+      "name": "Thể loại 1",
+      "description": "Mô tả thể loại 1"
+    },
+    {
+      "name": "Thể loại 2",
+      "description": "Mô tả thể loại 2"
+    }
+  ]
+}
